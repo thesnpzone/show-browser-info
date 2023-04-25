@@ -7,7 +7,7 @@ function App() {
   return (
     <>
 
-      <h1 style={{textAlign:"center"}}>{browserName} Browser</h1>
+      <h1 style={{textAlign:"center"}}>Your Useing <u>{browserName}</u> Browser</h1>
 
     </>
   )
